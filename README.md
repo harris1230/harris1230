@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harish Gupta
 
-### B.Tech CSE Student | AI/ML & Full-Stack Developer
+### B.Tech IT Student | AI/ML & Full-Stack Developer
 
 I build practical applications using Artificial Intelligence, Machine Learning,
 Java, Spring Boot and modern web technologies.
