@@ -23,7 +23,7 @@ major-project application.
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science student
+- 🎓 B.Tech Information Technology student
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - 💻 Building full-stack applications
 - ☕ Working with Java & Spring Boot
